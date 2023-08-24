@@ -3,13 +3,13 @@
 A repository to store the 3D model of Toenail from R&R
 
 ## Current Toenails
-Toenail
-Dandelion
-Lobotomy
-Fingernail
-Toenerd
-Toonnail
-Weednail
+- Toenail
+- Dandelion
+- Lobotomy
+- Fingernail
+- Toenerd
+- Toonnail
+- Weednail
 
 ## How do I add my own Toenail?
 ### Method 1
